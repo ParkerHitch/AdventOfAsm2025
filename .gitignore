@@ -1,0 +1,5 @@
+
+build/**
+input/**
+
+compile_commands.json
